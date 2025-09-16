@@ -46,5 +46,5 @@ https://github.com/user-attachments/assets/03ded08c-c279-4422-9e1a-6be3dea70530
 - **Data-driven decision making** → transforming insights into **strategic actions**
 ## 👩‍💻 Author
 **Shereen Wagdy**  
-- 📧 Email: [your email here]  
-- 🔗 LinkedIn: [your LinkedIn profile here]
+- 📧 Email: [Shereenwagdy214@gmail.com ]
+- 🔗 LinkedIn: [linkedin.com/in/shereen-wagdy-🇵🇸-4430a3166]
