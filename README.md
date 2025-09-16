@@ -5,10 +5,9 @@ This project analyzes passenger booking data to uncover key insights into travel
 The analysis was conducted using Excel (data preparation & pivot tables) and Figma (dashboard design) to transform raw data into actionable, data-driven decisions. 
 
 
---- 
+ 
 https://github.com/user-attachments/assets/3bd3939c-52b2-44b0-84cb-d9292b29446c  
 
---- 
 
 🚀 Key Takeaways
 👥 Passenger Overview
@@ -21,7 +20,6 @@ Avg. stay: 23 days
 
 Avg. flight: 7–9 hrs → mostly long-haul & long-stay travelers 
 
---- 
 
 📊 Booking Behavior
 
@@ -31,7 +29,7 @@ Strong seasonality → peak in Dec–Jan, lowest mid-year
 
 Round-trip dominates over one-way
 
- --- 
+
 
 🎯 Customer Preferences
 
@@ -51,7 +49,7 @@ Peak travel hours: 12, 8, 7, 9, 11 (morning & midday)
 
 Top origins: Australia (largest), followed by Malaysia, South Korea, Japan, and China 
 
---- 
+
 
 💡 Opportunities
 
@@ -63,7 +61,7 @@ Target Australia & Malaysia with tailored campaigns
 
 Launch seasonal offers to boost mid-year bookings 
 
---- 
+
 
 🛠️ Tools & Techniques
 
