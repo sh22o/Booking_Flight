@@ -1,41 +1,42 @@
-✈️ Flight Booking Analysis Dashboard  
---- 
-📌 Project Overview 
-This project analyzes passenger booking data to uncover key insights into traveler behavior, booking patterns, and opportunities for revenue growth.
-The analysis was conducted using Excel (data preparation & pivot tables) and Figma (dashboard design) to transform raw data into actionable, data-driven decisions. 
+✈️ Flight Booking Analysis Dashboard
+📌 Project Overview
 
+This project analyzes passenger booking data to uncover key insights into traveler behavior, booking patterns, and revenue opportunities.
 
- 
-https://github.com/user-attachments/assets/3bd3939c-52b2-44b0-84cb-d9292b29446c  
+The analysis was conducted using:
 
+Excel → data preparation, pivot tables, and visualization of raw data.
+
+Figma → dashboard design for a clear and interactive presentation of findings.
+
+The goal is to transform raw booking data into actionable insights to support business strategy and growth.
 
 🚀 Key Takeaways
 👥 Passenger Overview
 
-50,000 passengers | Conversion rate: 15% (low → optimization needed)
+50,000 passengers analyzed
+
+Conversion rate: 15% (low → optimization needed)
 
 Avg. lead time: 85 days → customers plan early
 
 Avg. stay: 23 days
 
-Avg. flight: 7–9 hrs → mostly long-haul & long-stay travelers 
-
+Avg. flight duration: 7–9 hrs → mostly long-haul & long-stay travelers
 
 📊 Booking Behavior
 
-85% bookings completed successfully
+85% of bookings completed successfully
 
-Strong seasonality → peak in Dec–Jan, lowest mid-year
+Strong seasonality → peak in Dec–Jan, lowest in mid-year
 
-Round-trip dominates over one-way
-
-
+Round-trip bookings dominate over one-way
 
 🎯 Customer Preferences
 
-Mobile is the key sales channel (89%)
+Mobile is the main sales channel (89%)
 
-Ancillary demand:
+Ancillary services in high demand:
 
 Seat selection (70%)
 
@@ -47,9 +48,17 @@ Extra baggage (67%)
 
 Peak travel hours: 12, 8, 7, 9, 11 (morning & midday)
 
-Top origins: Australia (largest), followed by Malaysia, South Korea, Japan, and China 
+Top origins:
 
+Australia (largest)
 
+Malaysia
+
+South Korea
+
+Japan
+
+China
 
 💡 Opportunities
 
@@ -59,21 +68,20 @@ Leverage ancillary services for revenue growth
 
 Target Australia & Malaysia with tailored campaigns
 
-Launch seasonal offers to boost mid-year bookings 
-
-
+Launch seasonal offers to boost mid-year bookings
 
 🛠️ Tools & Techniques
 
-📊 Excel → Data cleaning, preparation, pivot tables
+Excel → data cleaning, pivot tables, charts
 
-🎨 Figma → Dashboard UI design
+Figma → dashboard design & visualization
 
-📈 Data-Driven Decisions → Business insights & recommendations 
+Data-driven decision making → transforming insights into strategic actions
 
+👩‍💻 Author
 
+Shereen Wagdy
 
+📧 Email: [your email here]
 
-
-
-
+🔗 LinkedIn: [your LinkedIn profile here]
